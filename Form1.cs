@@ -29,7 +29,7 @@ namespace Calculator
 
         private void button3_Click(object sender, EventArgs e)
         {
-       
+            if (txtA.Text != String.Empty)
             {
                 double a = double.Parse(txtA.Text);
                 double b = double.Parse(txtB.Text);
