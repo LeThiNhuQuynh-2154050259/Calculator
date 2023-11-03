@@ -69,6 +69,7 @@ namespace Calculator
             // 
             // button4
             // 
+            this.button4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(128)))));
             this.button4.Location = new System.Drawing.Point(467, 250);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(120, 43);
